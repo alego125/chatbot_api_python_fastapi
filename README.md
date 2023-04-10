@@ -18,6 +18,7 @@ pip install -r requirements.txt
 
 ## 💨 Run the program
 -----
+![image](https://user-images.githubusercontent.com/76167482/230817118-fef843c5-9108-4934-b33f-34dcf7a7584d.png)
 
 To run the program, open the command prompt and execute the following command:
 ~~~
